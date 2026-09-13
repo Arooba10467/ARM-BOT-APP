@@ -1,0 +1,18 @@
+year,income_group,world_bank_income_code,who_region,antibiotic_consumption_ddd_per_1000_per_day,access_antibiotics_pct,watch_antibiotics_pct,reserve_antibiotics_pct,uhc_service_coverage_index_2021,gdp_per_capita_usd_approx,health_expenditure_pct_gdp,amr_resistance_median_bsi_pct,amr_attributable_rate_per_100k,glass_participation_pct_2023,countries_reporting_glass_2023,notes,primary_source,source_doi
+2016,Global,GLO,GLO,12.8,,,,,,,,,,104.0,Global baseline 2016 GLASS launch year,Klein et al. PNAS 2018; PNAS 2024 Lewnard et al.,10.1073/pnas.2411919121
+2018,Global,GLO,GLO,14.1,,,,,,,,,,104.0,Global 2018 — Lancet Planetary Health 2022,"Browne et al., Lancet Planetary Health 2022",10.1016/S2542-5196(21)00280-1
+2020,Global,GLO,GLO,13.5,,,,,,,,,,104.0,COVID dip 2020 — significant decrease all income groups (PNAS 2024),"Lewnard et al., PNAS 2024",10.1073/pnas.2411919121
+2022,Global,GLO,GLO,15.4,52.7,45.3,2.0,,,,,,,104.0,Access 52.7% (UN 2030 target=70%); Watch 45.3%; data from GLASS 2025,WHO GLASS 2025 Report; GLASS-AMU 2024,WHO/2025/GLASS
+2023,Global,GLO,GLO,15.5,,,,,,,16.7,,,104.0,Global 2023; resistance 1 in 6 infections; 20.9% consumption increase 2016-2023,"Lewnard et al., PNAS 2024; WHO GLASS 2025",10.1073/pnas.2411919121
+2023,High-income,HIC,HIC,20.6,70.0,28.0,2.0,82.0,45000.0,8.5,10.2,13.0,80.0,,HICs: higher access abx use; lower AMR burden; strong surveillance,PNAS 2024; GLASS 2025,10.1073/pnas.2411919121
+2023,Upper-middle-income,UMIC,UMIC,15.2,55.0,43.0,2.0,72.0,12000.0,5.5,18.0,,45.0,,UMICs: rapid consumption growth; strong rebound post-COVID 2021-2023,PNAS 2024; GLASS 2025,10.1073/pnas.2411919121
+2023,Lower-middle-income,LMIC,LMIC,13.1,45.0,52.0,3.0,58.0,3500.0,4.2,25.0,,25.0,,LMICs: Watch group >50%; high resistance; limited surveillance,PNAS 2024; GLASS 2025,10.1073/pnas.2411919121
+2023,Low-income,LIC,LIC,7.5,40.0,55.0,5.0,42.0,800.0,2.8,35.0,27.3,10.0,,Low-income: highest AMR mortality rate; least consumption but worst outcomes,GRAM 2022; PNAS 2024; GLASS 2025,10.1016/S0140-6736(21)02724-0
+2023,,,Africa (AFR),9.0,40.0,55.0,5.0,46.0,1800.0,3.5,35.0,27.3,57.4,57.0,Africa: <0.3% labs with full AST; highest AMR death rate; limited data,GLASS 2025; Lancet Planetary Health 2022,WHO/2025/GLASS
+2023,,,Americas (AMR),18.5,65.0,33.0,2.0,75.0,14000.0,7.8,16.0,,20.0,20.0,Americas: lowest GLASS participation (20%); ReLAVRA+ regional network,GLASS 2025; PNAS 2024,WHO/2025/GLASS
+2023,,,Europe (EUR),18.2,68.0,30.0,2.0,80.0,38000.0,8.5,10.2,13.0,58.5,59.0,Europe: EARS-Net strongest AMR surveillance; lowest resistance globally,GLASS 2025; ECDC EARS-Net 2024,WHO/2025/GLASS
+2023,,,Eastern Mediterranean (EMR),23.6,38.0,58.0,4.0,60.0,8500.0,4.8,30.0,,76.2,76.0,EMR: highest antibiotic consumption rate; 1 in 3 infections resistant,GLASS 2025; Lancet Planetary Health 2022,WHO/2025/GLASS
+2023,,,South-East Asia (SEAR),14.5,42.0,54.0,4.0,62.0,3200.0,4.0,31.1,21.5,90.9,91.0,SEAR: highest GLASS participation (90.9%); highest resistance alongside EMR,GLASS 2025; GRAM 2022,WHO/2025/GLASS
+2023,,,Western Pacific (WPR),14.8,58.0,40.0,2.0,78.0,18000.0,6.5,9.1,,37.0,37.0,WPR: lowest resistance; Japan/Australia/NZ lead stewardship programmes,GLASS 2025; PNAS 2024,WHO/2025/GLASS
+2018,,,N. Africa & Middle East,23.6,35.0,60.0,5.0,,,,,,,,Highest consumption rate globally 2018 (23.6 DDD/1000/day) — Lancet Planetary Health 2022,"Browne et al., Lancet Planetary Health 2022",10.1016/S2542-5196(21)00280-1
+2018,,,South Asia,14.0,38.0,58.0,4.0,,,,,21.5,,,South Asia 25.2% of all global antibiotic consumption in 2018,"Browne et al., Lancet Planetary Health 2022",10.1016/S2542-5196(21)00280-1
