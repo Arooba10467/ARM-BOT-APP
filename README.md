@@ -90,6 +90,30 @@ AMR-Vision-AI/
 
 The goal of AMR Vision AI is to turn complex antimicrobial resistance data into **clear, interactive, and accessible insights** that support AMR awareness and understanding.
 
+## Screenshots
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/forecast.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Forcast_Info.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Pathogen-explorer.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/statistics.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/AI-Assitant.png" width="800">
+</p>
 ## 👩‍💻 Author
 **Arooba Afghan**
 Computer Science | AI/ML
