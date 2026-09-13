@@ -96,6 +96,14 @@ The goal of AMR Vision AI is to turn complex antimicrobial resistance data into 
 </p>
 
 <p align="center">
+  <img src="Screenshots/dashboard0.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Screenshots/dashboard1.png" width="800">
+</p>
+
+<p align="center">
   <img src="Screenshots/Forcast.png" width="800">
 </p>
 
